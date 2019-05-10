@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_timeline_notification"
+        android:enabled="true"
+        android:icon="@drawable/ic_notifications_none_black_24dp"
+        android:title="@string/notification"
+        app:showAsAction= "always" />
+    <item
+        android:id="@+id/action_timeline_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home"
+        app:showAsAction= "always" />
+    <item
+        android:id="@+id/action_timeline_square"
+        android:enabled="true"
+        android:icon="@drawable/ic_crop_square_black_24dp"
+        android:title="@string/square"
+        app:showAsAction= "always" />
+</menu>

@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HamsterMessaging</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="friends">Friends</string>
+    <string name="chats">Chats</string>
+    <string name="timeline">Timeline</string>
+    <string name="more">More</string>
+    <string name="news">News</string>
+    <string name="add_friends">Add friends</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="edit_messages">Edit messages</string>
+    <string name="sort_chats">Sort chats</string>
+    <string name="mark_read">Mark all as read</string>
+    <string name="add_messages">Add messages</string>
+    <string name="notification">Notifications</string>
+    <string name="home">Home</string>
+    <string name="square">Square</string>
+</resources>
